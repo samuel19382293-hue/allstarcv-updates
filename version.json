@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
-  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.0.7/AllstarRemotePlay.exe",
+  "version": "1.0.8",
+  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.0.8/AllstarRemotePlay.exe",
   "required": true,
-  "notes": "Required update. Screen-capture and virtual-camera sources now detect the meter and time shots at any monitor resolution (1440p / 4K / ultrawide), not just 1080p capture cards. The updater no longer freezes at 100% - it waits out antivirus file locks and closes cleanly so the swap always finishes. Shooting engine unchanged."
+  "notes": "Required update. Fixes the 'Update failed - certificate verify failed' error some PCs hit when updating - the updater now carries its own certificate bundle. Also includes the 1.0.7 fixes: screen-capture and virtual-camera detection at any monitor resolution, and no more freeze at 100% during an update. Shooting engine unchanged."
 }
