@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.0.6/AllstarRemotePlay.exe",
+  "version": "1.0.7",
+  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.0.7/AllstarRemotePlay.exe",
   "required": true,
-  "notes": "Required security update. The app now checks your Discord login every launch and no longer stores any license state on your PC. Shooting, controller bridge, and everything else are unchanged."
+  "notes": "Required update. Screen-capture and virtual-camera sources now detect the meter and time shots at any monitor resolution (1440p / 4K / ultrawide), not just 1080p capture cards. The updater no longer freezes at 100% - it waits out antivirus file locks and closes cleanly so the swap always finishes. Shooting engine unchanged."
 }
