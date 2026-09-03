@@ -1,6 +1,6 @@
 {
-  "version": "1.0.9",
-  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.0.9/AllstarRemotePlay.exe",
+  "version": "1.0.8",
+  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.0.8/AllstarRemotePlay.exe",
   "required": true,
-  "notes": "Required update. Screen / display-monitor capture now reads the shot meter (screen captures come through dimmer than a capture card, which put the meter under the detection threshold - the app corrects that automatically now). Capture card and shooting engine unchanged."
+  "notes": "Required update. Fixes the 'certificate verify failed' update error and includes the 1.0.7 fixes."
 }
