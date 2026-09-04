@@ -1,6 +1,6 @@
 {
-  "version": "1.0.10",
-  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.0.10/AllstarRemotePlay.exe",
+  "version": "1.0.11",
+  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.0.11/AllstarRemotePlay.exe",
   "required": true,
-  "notes": "Required update. Fixes the 'Can't reach license server' lockout - access checks now go through the Allstar server instead of calling GitHub directly (which was rate-limited and blocked on some networks). Adds source protection. Camera, capture card, shooting and timing are unchanged."
+  "notes": "Required update. Controller bridge rebuilt - Guided Connect now connects every controller (Xbox, PlayStation/DualSense, GameSir, generic) in a few seconds with no off/on dance. Also fixes controller-hiding silently breaking on later launches. Shooting, flick, CV and timing are unchanged."
 }
