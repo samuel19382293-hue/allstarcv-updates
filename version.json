@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8",
-  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.0.8/AllstarRemotePlay.exe",
+  "version": "1.0.10",
+  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.0.10/AllstarRemotePlay.exe",
   "required": true,
-  "notes": "Required update. Fixes the 'certificate verify failed' update error and includes the 1.0.7 fixes."
+  "notes": "Required update. Fixes the 'Can't reach license server' lockout - access checks now go through the Allstar server instead of calling GitHub directly (which was rate-limited and blocked on some networks). Adds source protection. Camera, capture card, shooting and timing are unchanged."
 }
