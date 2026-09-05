@@ -1,6 +1,6 @@
 {
-  "version": "1.0.11",
-  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.0.11/AllstarRemotePlay.exe",
+  "version": "1.0.12",
+  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.0.12/AllstarRemotePlay.exe",
   "required": true,
-  "notes": "Required update. Controller bridge rebuilt - Guided Connect now connects every controller (Xbox, PlayStation/DualSense, GameSir, generic) in a few seconds with no off/on dance. Also fixes controller-hiding silently breaking on later launches. Shooting, flick, CV and timing are unchanged."
+  "notes": "Required update. Fixes a false 'wrong input - use Guided Connect' warning that showed even when the bridge was connected correctly. No functional change to the bridge, shooting, or CV."
 }
