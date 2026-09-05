@@ -1,6 +1,6 @@
 {
-  "version": "1.0.12",
-  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.0.12/AllstarRemotePlay.exe",
+  "version": "1.0.13",
+  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.0.13/AllstarRemotePlay.exe",
   "required": true,
-  "notes": "Required update. Fixes a false 'wrong input - use Guided Connect' warning that showed even when the bridge was connected correctly. No functional change to the bridge, shooting, or CV."
+  "notes": "Required update. Fixes app-wide lag/delay from v1.0.12 - a status check was querying the controller-hiding driver 3 times every quarter-second, stalling the app. It now checks once at connect time. Shooting, CV, and the bridge behavior are unchanged."
 }
