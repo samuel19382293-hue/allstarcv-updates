@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.0/Allstar.Vision.exe",
+  "version": "1.1.1",
+  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.1/Allstar.Vision.exe",
   "required": false,
-  "notes": "v1.1.0 - Titan Bridge (drive a Titan Two directly, not just Remote Play). Shooting is now controller-input-proof. Meter HUD redesigned (neon red) + Streamer Mode. Auth page shows time remaining. Camera sources: Capture Card / Display Screen / OBS Virtual Camera. Renamed to Allstar Vision."
+  "notes": "v1.1.1 - Fixed a startup crash (messagebox import error). Smoother capture card video (no more freezes or fake FPS). More consistent shot timing. Lower Titan Two bridge latency. Discord profile card on the Authentication tab. Access ends instantly when your time runs out."
 }
