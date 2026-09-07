@@ -1,6 +1,6 @@
 {
-  "version": "1.1.2",
-  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.2/Allstar.Vision.exe",
+  "version": "1.1.3",
+  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.3/Allstar.Vision.exe",
   "required": false,
-  "notes": "v1.1.2 - Screen/monitor capture rebuilt (works with no capture card). New Video Quality setting (High = uncompressed feed on a real capture card). Predictive shot release + Release Lead (ms) knob - fixes shots that released late. Controller output tightened for lower, steadier flick latency. Sharper, smoother video display."
+  "notes": "v1.1.3 - Titan Bridge now works on PS4/PS5 (much lighter PROG-port traffic; the app also blocks Connect while Gtuner/Helios is holding the port, with a clear message). The shot release-lead late-fix now applies on Titan too, auto-scaled for the wired path."
 }
