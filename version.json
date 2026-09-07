@@ -1,6 +1,6 @@
 {
-  "version": "1.1.3",
-  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.3/Allstar.Vision.exe",
+  "version": "1.1.4",
+  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.4/Allstar.Vision.exe",
   "required": false,
-  "notes": "v1.1.3 - Titan Bridge now works on PS4/PS5 (much lighter PROG-port traffic; the app also blocks Connect while Gtuner/Helios is holding the port, with a clear message). The shot release-lead late-fix now applies on Titan too, auto-scaled for the wired path."
+  "notes": "v1.1.4 - Capture Card FPS picker (60/120) for Elgatos and other 120-capable cards (twice the shot-timing resolution). Fullscreen button for the video display (Esc or the corner button to exit). The live controller visualiser now works on the Titan too - shows the shot stick firing."
 }
