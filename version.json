@@ -1,6 +1,6 @@
 {
-  "version": "1.0.13",
-  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.0.13/AllstarRemotePlay.exe",
-  "required": true,
-  "notes": "Required update. Fixes app-wide lag/delay from v1.0.12 - a status check was querying the controller-hiding driver 3 times every quarter-second, stalling the app. It now checks once at connect time. Shooting, CV, and the bridge behavior are unchanged."
+  "version": "1.1.0",
+  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.0/Allstar.Vision.exe",
+  "required": false,
+  "notes": "v1.1.0 - Titan Bridge (drive a Titan Two directly, not just Remote Play). Shooting is now controller-input-proof. Meter HUD redesigned (neon red) + Streamer Mode. Auth page shows time remaining. Camera sources: Capture Card / Display Screen / OBS Virtual Camera. Renamed to Allstar Vision."
 }
