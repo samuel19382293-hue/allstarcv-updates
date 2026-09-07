@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.1/Allstar.Vision.exe",
+  "version": "1.1.2",
+  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.2/Allstar.Vision.exe",
   "required": false,
-  "notes": "v1.1.1 - Fixed a startup crash (messagebox import error). Smoother capture card video (no more freezes or fake FPS). More consistent shot timing. Lower Titan Two bridge latency. Discord profile card on the Authentication tab. Access ends instantly when your time runs out."
+  "notes": "v1.1.2 - Screen/monitor capture rebuilt (works with no capture card). New Video Quality setting (High = uncompressed feed on a real capture card). Predictive shot release + Release Lead (ms) knob - fixes shots that released late. Controller output tightened for lower, steadier flick latency. Sharper, smoother video display."
 }
