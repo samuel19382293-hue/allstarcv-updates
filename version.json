@@ -1,6 +1,6 @@
 {
-  "version": "1.1.6",
-  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.6/Allstar.Vision.exe",
+  "version": "1.1.7",
+  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.7/Allstar.Vision.exe",
   "required": false,
-  "notes": "v1.1.6 - Shooting timing rolled back to the v1.1.4 model: simpler, steadier release. Undoes the v1.1.5 forward-projection release + mask-column meter read that were causing inconsistent / random-late shots on some setups. The shot fires when the bar reaches target minus your Release Lead. Everything else (Titan bridge, capture, controller visualiser, HidHide auto-fix) is unchanged."
+  "notes": "v1.1.7 - Release Lead removed (Timing is the only release knob now). Fixed the Titan double-shot / bounceback - Titan users re-load AllstarTitan.gpc to slot 1. Fixed a Windows timer bug adding ~15ms input lag on Titan. Smoother meter-box tracking. Anti-debug can't false-close the app on a slow PC."
 }
