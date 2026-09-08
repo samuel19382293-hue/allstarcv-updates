@@ -1,6 +1,6 @@
 {
-  "version": "1.1.4",
-  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.4/Allstar.Vision.exe",
+  "version": "1.1.5",
+  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.5/Allstar.Vision.exe",
   "required": false,
-  "notes": "v1.1.4 - Capture Card FPS picker (60/120) for Elgatos and other 120-capable cards (twice the shot-timing resolution). Fullscreen button for the video display (Esc or the corner button to exit). The live controller visualiser now works on the Titan too - shows the shot stick firing."
+  "notes": "v1.1.5 - The double-input fix now auto-runs on Xbox too (was PlayStation only). This is the fix for shots releasing late / the shot stick fighting itself - the game was reading your controller AND the app at the same time. Reconnect in the Bridge tab (needs HidHide). Also: meter height read straight from the mask (no more top clipping), steadier shot timing (line-fit fill rate + holds the fastest rate), and a fixed-size detection box that stops zooming with the meter."
 }
