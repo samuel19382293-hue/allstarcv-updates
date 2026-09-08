@@ -1,6 +1,6 @@
 {
-  "version": "1.1.5",
-  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.5/Allstar.Vision.exe",
+  "version": "1.1.6",
+  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.6/Allstar.Vision.exe",
   "required": false,
-  "notes": "v1.1.5 - The double-input fix now auto-runs on Xbox too (was PlayStation only). This is the fix for shots releasing late / the shot stick fighting itself - the game was reading your controller AND the app at the same time. Reconnect in the Bridge tab (needs HidHide). Also: meter height read straight from the mask (no more top clipping), steadier shot timing (line-fit fill rate + holds the fastest rate), and a fixed-size detection box that stops zooming with the meter."
+  "notes": "v1.1.6 - Shooting timing rolled back to the v1.1.4 model: simpler, steadier release. Undoes the v1.1.5 forward-projection release + mask-column meter read that were causing inconsistent / random-late shots on some setups. The shot fires when the bar reaches target minus your Release Lead. Everything else (Titan bridge, capture, controller visualiser, HidHide auto-fix) is unchanged."
 }
