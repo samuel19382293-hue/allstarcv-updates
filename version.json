@@ -1,6 +1,6 @@
 {
-  "version": "1.1.7",
-  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.7/Allstar.Vision.exe",
+  "version": "1.1.8",
+  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.8/Allstar.Vision.exe",
   "required": false,
-  "notes": "v1.1.7 - Release Lead removed (Timing is the only release knob now). Fixed the Titan double-shot / bounceback - Titan users re-load AllstarTitan.gpc to slot 1. Fixed a Windows timer bug adding ~15ms input lag on Titan. Smoother meter-box tracking. Anti-debug can't false-close the app on a slow PC."
+  "notes": "v1.1.8 - Meter detection box now sizes correctly to your meter (no clipping, no oversized box), and the search area is pinned to the meter so tracking can't clip detection. Shooting unchanged from v1.1.7."
 }
