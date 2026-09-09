@@ -1,6 +1,6 @@
 {
-  "version": "1.1.8",
-  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.8/Allstar.Vision.exe",
+  "version": "1.1.10",
+  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.10/Allstar.Vision.exe",
   "required": false,
-  "notes": "v1.1.8 - Meter detection box sizing + search area pinned to the meter. Shooting unchanged from v1.1.7."
+  "notes": "v1.1.10 - Fixed random late shots (phantom double-flick) + shot release ~0.17s faster. RE-TUNE your Timing slider after updating (drop it ~10-15). Titan Two users: re-flash the new AllstarTitan.gpc."
 }
