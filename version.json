@@ -1,6 +1,6 @@
 {
-  "version": "1.1.9",
-  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.9/Allstar.Vision.exe",
+  "version": "1.1.8",
+  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.8/Allstar.Vision.exe",
   "required": false,
-  "notes": "v1.1.9 - Shot engine reverted to the older, more consistent build (much steadier shot-to-shot). Flick locked to a straight direction (no more wrong-way flicks after aiming). Titan: on-device script fires on the meter only - re-load AllstarTitan.gpc to slot 1. Fixed hidden input lag, smoother video + controller viz."
+  "notes": "v1.1.8 - Meter detection box sizing + search area pinned to the meter. Shooting unchanged from v1.1.7."
 }
