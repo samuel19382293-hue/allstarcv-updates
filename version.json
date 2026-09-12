@@ -1,6 +1,6 @@
 {
-  "version": "1.1.11",
-  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.11/Allstar.Vision.exe",
+  "version": "1.1.12",
+  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.12/Allstar.Vision.exe",
   "required": false,
-  "notes": "v1.1.11 - same build as 1.1.10, no functional changes. Re-released so every copy is on one verified stable version."
+  "notes": "Controller connect reliability improvements: connecting your controller now happens automatically when you press Start if it isn't already connected. Fixed a leak where closing via Alt+F4 could leave a stale virtual controller behind. Smoother live preview with fewer freezes. Fixed Streamer Mode."
 }
