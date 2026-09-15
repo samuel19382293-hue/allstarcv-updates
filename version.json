@@ -1,7 +1,7 @@
 {
-  "version": "1.1.13",
-  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.13/Allstar.Vision.exe",
+  "version": "1.1.14",
+  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.14/Allstar.Vision.exe",
   "required": false,
-  "gpc_url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.13/AllstarTitan.gpc",
-  "notes": "Straight meter tracking overhaul (no more random lock on/off or jitter), fixed shot timing/lock during meter movement on all meters, new Streamer Mode (hides the on-screen box), fixed 120 FPS capture, faster Live Input/Output panel. TITAN: re-load AllstarTitan.gpc onto slot 1 in Gtuner IV."
+  "gpc_url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.14/AllstarTitan.gpc",
+  "notes": "Fixed shots sometimes not timing at all or releasing very late after the meter already filled (a stuck internal state after firing could block the next shot from ever releasing). Fixed a rare false-detection issue that caused a burst of random extra inputs. Tuned down the video preview's sharpen/color enhancement (was too strong and causing pixelation). Refreshed sidebar look. TITAN USERS: re-load AllstarTitan.gpc onto slot 1 in Gtuner IV - fixes random extra flicks/inputs firing after a shot on their own."
 }
