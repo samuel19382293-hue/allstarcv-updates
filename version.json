@@ -2,5 +2,6 @@
   "version": "1.1.13",
   "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.13/Allstar.Vision.exe",
   "required": false,
+  "gpc_url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.13/AllstarTitan.gpc",
   "notes": "Straight meter tracking overhaul (no more random lock on/off or jitter), fixed shot timing/lock during meter movement on all meters, new Streamer Mode (hides the on-screen box), fixed 120 FPS capture, faster Live Input/Output panel. TITAN: re-load AllstarTitan.gpc onto slot 1 in Gtuner IV."
 }
