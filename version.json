@@ -1,7 +1,7 @@
 {
-  "version": "1.1.15",
-  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.15/Allstar.Vision.exe",
+  "version": "1.1.16",
+  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.16/Allstar.Vision.exe",
   "required": false,
-  "gpc_url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.14/AllstarTitan.gpc",
-  "notes": "UI polish: refreshed sidebar/topbar/log strip visuals, cleaner profile card, better time-remaining display. Turned off internal diagnostic logging that was writing to disk on every detection event (real perf overhead, worse the more jittery detection got) - was left on since v1.1.13 by mistake. No shooting/detection changes in this update."
+  "gpc_url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.16/AllstarTitan.gpc",
+  "notes": "Fixed a false-detection issue where a court line could get picked up and tracked as the shot meter (tightened how loose the motion-blur recovery scan is allowed to get), which could cause shots to not time at all or fire late. Fixed the Timing and Rhythm settings silently resetting to their minimum value on some Windows regional formats (comma decimal separator) instead of applying what you typed. TITAN USERS: the GPC's Rhythm setting was capped at 100ms even though the slider allows up to 200 - anything above 100 was being ignored. Re-load AllstarTitan.gpc onto slot 1 in Gtuner IV to get the fix."
 }
