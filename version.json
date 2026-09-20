@@ -1,7 +1,7 @@
 {
-  "version": "1.1.17",
-  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.17/Allstar.Vision.exe",
+  "version": "1.1.18",
+  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.18/Allstar.Vision.exe",
   "required": false,
   "gpc_url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.16/AllstarTitan.gpc",
-  "notes": "Fixed a persistent false-detection issue where a specific on-screen object could get matched as the shot meter and cause random late/inconsistent timing, especially noticeable on faster and farther shots. Detection now rejects anything well outside a real shot's height range for your calibration. New animated logo. Video preview quality/performance tuning. No changes to how Titan's GPC works this update."
+  "notes": "More consistent shot release timing: the release is now scheduled at the meter's actual crossing point instead of waiting for the next video frame. Fewer false triggers in real games: the detector ignores scoreboard/HUD graphics and the meter's own post-shot animation, and will not fire on anything well outside a real shot's height. No changes to the GPC this update."
 }
