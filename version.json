@@ -1,7 +1,7 @@
 {
-  "version": "1.1.20",
-  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.20/Allstar.Vision.exe",
+  "version": "1.1.21",
+  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.21/Allstar.Vision.exe",
   "required": false,
   "gpc_url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.16/AllstarTitan.gpc",
-  "notes": "Fixes random late shots caused by a stale tracking reference after the detector briefly loses the meter and a dim HUD/court feature lingers near the old spot. Fixes false detections from bright white objects (court lines/HUD) that could steal or delay a shot. PlayStation/DualSense controller fix for the Remote Play bridge (flick now works correctly on PS4/PS5 pads, not just Xbox). No changes to the GPC this update."
+  "notes": "Detection and shooting improvements. No changes to the GPC this update."
 }
