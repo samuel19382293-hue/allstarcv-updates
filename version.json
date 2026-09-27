@@ -1,7 +1,7 @@
 {
-  "version": "1.1.22",
-  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.22/Allstar.Vision.exe",
+  "version": "1.1.23",
+  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.23/Allstar.Vision.exe",
   "required": false,
   "gpc_url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.16/AllstarTitan.gpc",
-  "notes": "New sleek glass UI with the new logo. Detection and shooting improvements. No changes to the GPC this update."
+  "notes": "Brand new layout: bigger video in the middle, shot setup on the left, connection + live controller on the right. The live controller now shows every input on both Bridge and Titan. Titan memory slot light fixed. Shooting unchanged. No changes to the GPC this update."
 }
