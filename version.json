@@ -1,7 +1,7 @@
 {
-  "version": "1.1.25",
-  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.25/Allstar.Vision.exe",
+  "version": "2.0",
+  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v2.0/Allstar.Vision.exe",
   "required": false,
-  "gpc_url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v1.1.16/AllstarTitan.gpc",
-  "notes": "Meter tracking stays on the meter during fades and moves. Shots fire right on your Timing, more consistently. Tip: if shots feel a touch late, lower Timing by 1. No changes to the GPC this update."
+  "gpc_url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v2.0/AllstarTitan.gpc",
+  "notes": "Allstar Vision v2. New login screen and black/red look. Blurry and dim meters (hard fades, Remote Play) now fire on time like normal ones. Stronger account security: your access is locked to this PC. Titan users: load the new AllstarTitan.gpc from your app folder onto slot 1 in Gtuner IV (fixes the stick drifting sideways during a shot)."
 }
