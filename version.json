@@ -1,7 +1,7 @@
 {
-  "version": "2.0",
-  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v2.0/Allstar.Vision.exe",
+  "version": "2.1",
+  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v2.1/Allstar.Vision.exe",
   "required": false,
-  "gpc_url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v2.0/AllstarTitan.gpc",
-  "notes": "Allstar Vision v2. New login screen and black/red look. Blurry and dim meters (hard fades, Remote Play) now fire on time like normal ones. Stronger account security: your access is locked to this PC. Titan users: load the new AllstarTitan.gpc from your app folder onto slot 1 in Gtuner IV (fixes the stick drifting sideways during a shot)."
+  "gpc_url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v2.1/AllstarTitan.gpc",
+  "notes": "Allstar Vision v2.1. Fixes the Titan tab not opening. Court lines and free-throw box corners are no longer picked up as the meter. New top bar and look. Sharper, smoother video preview. Titan users: the AllstarTitan.gpc in your app folder is unchanged from v2."
 }
