@@ -1,7 +1,7 @@
 {
-  "version": "2.1",
-  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v2.1/Allstar.Vision.exe",
+  "version": "2.2",
+  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v2.2/Allstar.Vision.exe",
   "required": false,
-  "gpc_url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v2.1/AllstarTitan.gpc",
-  "notes": "Allstar Vision v2.1. Fixes the Titan tab not opening. Court lines and free-throw box corners are no longer picked up as the meter. New top bar and look. Sharper, smoother video preview. Titan users: the AllstarTitan.gpc in your app folder is unchanged from v2."
+  "gpc_url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v2.2/AllstarTitan.gpc",
+  "notes": "Allstar Vision v2.2. Updates now install automatically with a progress screen. The on-video readout holds still instead of flashing. Fixes the Titan tab, court-line detection, and a restart glitch. Titan users: the AllstarTitan.gpc in your app folder is unchanged."
 }
