@@ -1,7 +1,7 @@
 {
-  "version": "2.2",
-  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v2.2/Allstar.Vision.exe",
+  "version": "2.3",
+  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v2.3/Allstar.Vision.exe",
   "required": false,
-  "gpc_url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v2.2/AllstarTitan.gpc",
-  "notes": "Allstar Vision v2.2. Updates now install automatically with a progress screen. The on-video readout holds still instead of flashing. Fixes the Titan tab, court-line detection, and a restart glitch. Titan users: the AllstarTitan.gpc in your app folder is unchanged."
+  "gpc_url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v2.3/AllstarTitan.gpc",
+  "notes": "Allstar Vision v2.3. New red/white meter overlay that tracks the meter smoothly, stays centered and fades out cleanly. Better pickup on dim meters. Shooting and timing unchanged. Titan users: the AllstarTitan.gpc in your folder is unchanged."
 }
