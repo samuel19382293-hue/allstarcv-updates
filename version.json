@@ -1,7 +1,7 @@
 {
-  "version": "2.3",
-  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v2.3/Allstar.Vision.exe",
+  "version": "2.4",
+  "url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v2.4/Allstar.Vision.exe",
   "required": false,
   "gpc_url": "https://github.com/samuel19382293-hue/allstarcv-updates/releases/download/v2.3/AllstarTitan.gpc",
-  "notes": "Allstar Vision v2.3. New red/white meter overlay that tracks the meter smoothly, stays centered and fades out cleanly. Better pickup on dim meters. Shooting and timing unchanged. Titan users: the AllstarTitan.gpc in your folder is unchanged."
+  "notes": "Allstar Vision v2.4. New Quit Match tab, much smoother performance and steadier FPS, better shot consistency, and a cleaner UI (new dropdowns, redesigned panels). Timing now behaves the same across every shot mode. Titan users: the AllstarTitan.gpc in your folder is unchanged."
 }
